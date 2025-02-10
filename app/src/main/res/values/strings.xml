@@ -15,4 +15,7 @@
     <string name="name">Имя</string>
     <string name="surname">Фамилия</string>
     <string name="age">Возраст</string>
+    <string name="close">Закрыть</string>
+    <string name="error">Ошибка</string>
+    <string name="profile_edit_error">Ошибка, все поля должны быть заполнены</string>
 </resources>
